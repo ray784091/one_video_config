@@ -1,0 +1,18 @@
+{
+  "name":"CCTV",
+  "time":"2022-01-05",
+  "detail":"央视网是中央广播电视总台主办的中央重点新闻网站，是拥有全牌照业务资质的大型互联网文化企业。央视网深入落实总台“台网并重、先网后台、移动优先”发展战略、“5G+4K/8K+AI”战略布局，以新闻为龙头，以视频为重点，以用户为中心，建设“网(中央重点新闻网站)+端(移动客户端)+新媒体集成播控平台+市场端口连接”融媒体传播体系，助力总台构建“多屏覆盖、无处不在”的用户入口",
+  "profilePicUri":"https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/baike/g=0;w=268/sign=1153d9b3de54564ef565e132c4e3aeb4/10dfa9ec8a1363273ad72793928fa0ec08fac75c.jpg",
+  "videos": [
+    {
+      "videoName":"CCTV-1",
+      "videoIcon":"https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",
+      "videoUrl":"http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8"
+     },
+    {
+      "videoName":"CCTV-2",
+      "videoIcon":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimages.bokee.com%2Fartpic_upload%2Fz%2Fs%2Fb%2Fzsbn1400771422%2F2941443512210.jpg&refer=http%3A%2F%2Fimages.bokee.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643957498&t=a7c3b3bbc0a5ebb4ceeb99be245945b0",
+      "videoUrl": "http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8"
+     }
+   ]
+}

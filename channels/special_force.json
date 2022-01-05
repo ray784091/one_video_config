@@ -1,0 +1,21 @@
+{
+  "name":"特种部队",
+  "time":"2022-01-05",
+  "detail":"《特种部队》是派拉蒙影业公司2009年出品的一部动作电影，改编自同名美国热门漫画，由D·J·卡卢索执导，道恩·强森及布鲁斯·威利斯等联袂出演",
+  "profilePicUri":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Fsinakd10100%2F281%2Fw640h441%2F20200306%2F47bb-iqmtvwv0558126.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643980488&t=9c39691e29d5803d98ad99a2a2be07ca",
+  "videos": [
+    {
+      "videoName":"特种部队1：眼镜蛇的崛起",
+      "videoIcon":"https://img1.baidu.com/it/u=2695664854,2739094527&fm=253&fmt=auto&app=138&f=JPEG?w=921&h=500",
+      "videoUrl":"https://vod1.fsvod1.com/20211120/rig3oIlr/index.m3u8"
+     },{
+      "videoName":"特种部队2：全面反击",
+      "videoIcon":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage11.m1905.cn%2Fuploadfile%2F2013%2F0208%2F20130208094050271.jpg&refer=http%3A%2F%2Fimage11.m1905.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643981097&t=645d00a872f66b407c5d7afff515d2b0",
+      "videoUrl":"https://iqiyi-qq-comic.jjyl12349.com/20210919/d3JkFLf3/index.m3u8"
+     },{
+      "videoName":"特种部队：蛇眼起源",
+      "videoIcon":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg02.sogoucdn.com%2Fapp%2Fa%2F200863%2Fimg_url_386241_162632368283516&refer=http%3A%2F%2Fimg02.sogoucdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643981148&t=32b99a0d4d39ba3cdc7671b4d875ec1f",
+      "videoUrl":"https://vod4.fsvod4.com/20220105/crEp25M4/index.m3u8"
+     }
+   ]
+}
